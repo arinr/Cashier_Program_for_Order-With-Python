@@ -1,4 +1,4 @@
-# Cashier_Program_for_Order-With-Python
+## Cashier Program for Order With Python
 
 ### 1. [menu_item.py](https://github.com/arinr/Cashier_Program_for_Order-With-Python/blob/0292922aa08c7982e66db025817a83a4871d11cd/menu_item.py)
 
